@@ -1,4 +1,4 @@
-# Pipelined CPU Implementation in C++ and Verilog
+# Pipelined CPU Implementation (with Stall and Predict Branch not Taken) in C++ and Verilog
 
 This project implements a CPU architecture in both C++ and Verilog.  
 It supports loading and executing test programs in hexadecimal format.
